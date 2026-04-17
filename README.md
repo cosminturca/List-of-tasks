@@ -101,11 +101,11 @@ The project was developed using an iterative approach, structured into Sprints:
 
 ![Development Flow](./development-flow.png)
 
-## Application Architecture
+# 6. Application Architecture
 
 ![Application Architecture](./application-architecture.png)
 
-## React Components Architecture
+# 7. React Components Architecture
 
 ![React Components Architecture](./react-components-architecture.png)
 
