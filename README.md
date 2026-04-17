@@ -1,4 +1,4 @@
-# List of tasks -- Technical Documentation
+# List of tasks - Technical Documentation
 
 # Students:
 
@@ -7,7 +7,7 @@
 
 # 1. General Overview
 
-The List of tasks application is a web platform dedicated to the efficient management of tasks and activities, aiming to improve user productivity. The project is built using the MERN stack (MongoDB, Express.js, React.js, Node.js), providing a modern, fast, and scalable solution.
+The list of tasks application is a web platform dedicated to the efficient management of tasks and activities, aiming to improve user productivity. The project is built using the MERN stack (MongoDB, Express.js, React.js, Node.js), providing a modern, fast, and scalable solution.
 
 The source code is organized into two main directories:
 
@@ -127,8 +127,8 @@ All routes are protected and require authentication through the Authorization He
 
 **Public Routes:** /login – The authentication page. If the user is already logged in, they are automatically redirected to the Dashboard.
 
-**Protected (Private) Routes:**/ (Root) loads the <TaskBoard /> component.
+**Protected (Private) Routes:** / (Root) loads the <TaskBoard /> component.
 
 # 10. Conclusions
 
-List Of Tasks demonstrates the ability to build a functional and aesthetically pleasing Full Stack application. The use of Tailwind CSS enabled rapid interface development, while the MERN architecture ensures performance and scalability. The project is ready for future extensions.
+List of tasks demonstrates the ability to build a functional and aesthetically pleasing Full Stack application. The use of Tailwind CSS enabled rapid interface development, while the MERN architecture ensures performance and scalability. The project is ready for future extensions.
