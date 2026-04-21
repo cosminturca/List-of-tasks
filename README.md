@@ -21,7 +21,7 @@ The project was developed collaboratively, with both team members contributing t
 
 ## 1. General Overview
 
-The List of tasks application is a university project developed for the Web Systems Development course. It is a web platform dedicated to the efficient management of tasks and activities, aiming to improve user productivity. The project is built using the MERN stack (MongoDB, Express.js, React.js, Node.js), providing a modern, fast, and scalable solution.
+The list of tasks application is a university project developed for the Web Systems Development course. It is a platform dedicated to the efficient management of tasks & activities, aiming to improve user productivity. The project is built using the MERN stack (MongoDB, Express.js, React.js, Node.js), providing a modern, fast and scalable solution.
 
 The source code is organized into two main directories:
 
